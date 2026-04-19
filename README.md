@@ -1,4 +1,3 @@
-
 # Arcabouço Zilvarin-Rincão V2.3
 
 Derivação numérica das previsões da teoria do campo escalar X para testes clássicos da gravidade.
@@ -7,9 +6,9 @@ Derivação numérica das previsões da teoria do campo escalar X para testes cl
 
 Este repositório calcula numericamente:
 
-1. **Precessão do periélio de Mercúrio**: 42.98 arcseg/século
-2. **Deflexão da luz pelo Sol**: 1.75 arcseg  
-3. **Desvio pro vermelho gravitacional**: z = 0.999948
+1. **Precessão do periélio de Mercúrio**: 42,98 arcseg/século
+2. **Deflexão da luz pelo Sol**: 1,75 arcseg  
+3. **Desvio pro vermelho gravitacional**: z = 0,999948
 
 Todos reproduzem a Relatividade Geral no limite de campo fraco, derivados do tensor energia-momento de X.
 
