@@ -25,3 +25,9 @@ Acoplamento: g_XR = 2.0 × 10^-22
 ```bash
 pip install numpy scipy matplotlib
 python Mercúrio_precesao.py
+
+
+
+## Referência
+
+Borges da Cunha, Délcio Henrique da Silva. (2026). Arcabouço Zilvarin-Rincão V2.3: Um Campo Escalar Sem Massa como Teoria Unificada Efetiva para Gravidade Quântica, Cosmologia, Modelo Padrão, Conservação de Carga Topológica e a Base Física da Consciência. Zenodo. DOI: [10.5281/zenodo.19598002](https://doi.org/10.5281/zenodo.19598002) 
